@@ -40,5 +40,6 @@ Account expires                             : Jan 28, 2027
 Minimum number of days between password change               : 0
 Maximum number of days between password change               : 99999
 Number of days of warning before password expires    : 7
+
 ```
 The output of `chage -l` should show Account expires : `Jan 28, 2027`.
