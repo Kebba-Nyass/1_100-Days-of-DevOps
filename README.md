@@ -7,3 +7,4 @@
 * [x] [Day 3: Secure Root SSH Access](./Day_3:Secure_Root_SSH_Access/task.md)
 * [x] [Day 4: Script Execution Permissions](./Day_4:Script_Execution_Permissions/task.md)
 * [x] [Day 5: SElinux Installation and Configuration](./Day_5:SElinux_Installation_and_Configuration/task.md)
+* [x] [Day 6: Create a Cron Job](./Day_6:Create_a_Cron_Job/task.md)
