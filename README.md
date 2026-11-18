@@ -8,3 +8,4 @@
 * [x] [Day 4: Script Execution Permissions](./Day_4:Script_Execution_Permissions/task.md)
 * [x] [Day 5: SElinux Installation and Configuration](./Day_5:SElinux_Installation_and_Configuration/task.md)
 * [x] [Day 6: Create a Cron Job](./Day_6:Create_a_Cron_Job/task.md)
+* [x] [Day 7: Linux SSH Authentication](./Day_7:Linux_SSH_Authentication/task.md) 
